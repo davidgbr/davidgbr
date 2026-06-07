@@ -1,5 +1,9 @@
 ## David G. Bonacho
 
+Creé este perfil para una tarea de una asignatura del grado de Técnicas de Interacción Digital y Multimedia en la UOC
+
+Mi cuenta está en [Github - David G. Bonacho](https://github.com/davidgbonacho)
+
 <!--
 **davidgbr/davidgbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
